@@ -1,0 +1,5 @@
+*.pck
+*.pkl
+data/
+keys/
+*.gz
